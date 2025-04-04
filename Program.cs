@@ -6,7 +6,7 @@ using System.Threading;
 
 class CybersecurityChatbot
 {
-    static void Main()
+    static void Main()//main method
     {
         Console.Title = "Cybersecurity Awareness Bot";
         Console.OutputEncoding = System.Text.Encoding.UTF8; // Support special characters
